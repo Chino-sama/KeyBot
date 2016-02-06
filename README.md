@@ -5,24 +5,24 @@ Esta brujería es un esqueleto de aplicación web construida en MongoDB, Express
 
 ## Secciones
 
-### index.js
+#### index.js
 Punto de entrada. Para correr la app, usa:
 ```
 node index
 ```
 
-### /api
+#### /api
 Contiene código relacionado con la API del servidor
 
-### /public
+#### /public
 Carpeta de contenido estático. Contiene todo lo que necesita el front end para funcionar.
 
 
 ## Variables de entorno
 
-### MONGOLAB_URI
+#### MONGOLAB_URI
 URI de acceso a MongoDB.
 No es necesario que el proveedor de base de datos sea MongoLab.
 
-### SECRET
+#### SECRET
 String nonsense para encriptar tokens. Por seguridad, conviene que sea de más de quince caracteres y suficientemente aleatoria.
