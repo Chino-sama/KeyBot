@@ -1,0 +1,37 @@
+{
+  "name": "skeleton",
+  "version": "1.0.0",
+  "description": "MEAN app base template",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "4.2.6"
+  },
+  "author": "Eguzkiman",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.5.2",
+    "bcryptjs": "^2.3.0",
+    "body-parser": "^1.14.2",
+    "cookie-parser": "^1.4.1",
+    "express": "^4.13.4",
+    "jsonwebtoken": "^5.5.4",
+    "mongoose": "^4.3.7"
+  },
+  "devDependencies": {
+    "angular": "^1.4.9",
+    "angular-animate": "^1.4.9",
+    "angular-cookies": "^1.4.9",
+    "angular-route": "^1.4.9",
+    "angular-touch": "^1.4.9",
+    "browserify": "^13.0.0",
+    "gulp": "^3.9.0",
+    "gulp-uglify": "^1.5.1",
+    "gulp-util": "^3.0.7",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.7.0"
+  }
+}

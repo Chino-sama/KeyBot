@@ -1,0 +1,14 @@
+body {
+	margin: 0;
+	font-size: 1.2rem;
+}
+
+/*
+	Base template classes
+*/
+
+.wrapper {
+	position: relative;
+	margin: auto;
+	width: 55rem;
+}
