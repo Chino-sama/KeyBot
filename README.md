@@ -2,6 +2,7 @@
 
 Esta brujería es un esqueleto de aplicación web construida en MongoDB, Express, Angular, y Node.
 
+
 ## Secciones
 
 ### index.js
@@ -15,6 +16,7 @@ Contiene código relacionado con la API del servidor
 
 ### /public
 Carpeta de contenido estático. Contiene todo lo que necesita el front end para funcionar.
+
 
 ## Variables de entorno
 
